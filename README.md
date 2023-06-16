@@ -1,1 +1,1 @@
-"# Image_denoise" 
+Colored Image denoising.
